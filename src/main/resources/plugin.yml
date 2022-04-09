@@ -1,0 +1,4 @@
+name: OreRegenerator
+version: '${project.version}'
+main: com.quandz.core.OreRegenerator
+api-version: 1.17

@@ -1,0 +1,11 @@
+refresh-time: 300 #in second
+worlds:
+  - "Mine"
+  - "example"
+regen-blocks:
+  - COAL_ORE
+  - IRON_ORE
+  - LAPIS_ORE
+  - REDSTONE_ORE
+  - GOLD_ORE
+  - DIAMOND_ORE
